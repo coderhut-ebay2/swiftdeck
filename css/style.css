@@ -97,6 +97,27 @@ a:hover {
     border: 1px solid #cd1616;
 }
 
+.bnr-rating {
+    margin-top: 25px;
+}
+.stars {
+    color: #fc0;
+    margin-bottom: 10px;
+}
+.bnr-rating p {
+    margin-bottom: 10px;
+    color: #e2dcdc;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0.6px;
+}
+.bnr-rating h6 {
+    color: #cecece;
+    font-size: 17px;
+    letter-spacing: 0.6px;
+    font-weight: 200;
+}
+
 /* Description Area */
 
 .desc-area {
